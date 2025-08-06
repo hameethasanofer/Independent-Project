@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 /* Resetting default margin, padding, and box-sizing */
 * {
   margin: 0;
